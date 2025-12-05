@@ -1,3 +1,13 @@
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
+
+
+
+
+
+
+
 # dsdfsdf
 ## 234234234
 ### 4534534534
@@ -13,3 +23,4 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
